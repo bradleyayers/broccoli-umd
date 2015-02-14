@@ -1,7 +1,7 @@
 {
   "name": "broccoli-umd",
   "description": "libumd wrapper for Broccoli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Bradley Ayers",
     "email": "bradley.ayers@gmail.com"
